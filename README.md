@@ -1,4 +1,4 @@
-# Files for CPSC457 Assignment 1 - Spring 2022
+
 You can compile the C++ code by running:
 
 ```
